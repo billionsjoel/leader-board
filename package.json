@@ -4,8 +4,6 @@
   "description": "A package to work with async, promises, es6 modules, gitflow and webpack",
   "main": "webpack.config.js",
   "dependencies": {
-    "@babel/core": "^7.16.12",
-    "@babel/preset-env": "^7.16.11",
     "abab": "^2.0.5",
     "abbrev": "^1.1.1",
     "acorn": "^8.7.0",
